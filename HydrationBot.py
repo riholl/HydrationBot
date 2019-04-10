@@ -6,7 +6,7 @@ from discord.ext.commands import Bot
 import asyncio
 import sys
 
-Token = "NTA5OTY1OTUyMDY3MTc0NDEy.XKe9lg.YkObXpdZwFVM8IR3z2LbWCtBFAc"
+Token = "x"
 
 
 client = discord.Client()
